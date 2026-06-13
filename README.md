@@ -1,15 +1,3 @@
-## Hi 
-
-<br>
-<p align="center">
-  <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javadkavossi&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true&cache=1"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadkavossi&langs_count=8&hide=Jupyter%20Notebook%2CKotlin%2C%2CSCSS,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true&cache=1"/>
-  <br/>
-</p>
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29875%26minutes%3D525600">
-
-
-</br>
 
 <h1 align="center">Hi, I'm Javad Kavossi 👋</h1>
 
@@ -105,10 +93,16 @@ A platform for tracking and analyzing crypto arbitrage opportunities across exch
 
 ## GitHub Stats
 
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javadkavossi&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadkavossi&layout=compact&theme=tokyonight" height="170" />
+  <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javadkavossi&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true&cache=1"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadkavossi&langs_count=8&hide=Jupyter%20Notebook%2CKotlin%2C%2CSCSS,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true&cache=1"/>
+  <br/>
 </p>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29875%26minutes%3D525600">
+
+
+</br>
 
 ---
 
